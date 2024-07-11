@@ -1,10 +1,10 @@
 {
-    "proxies": "socks4",
+    "proxies": "proxy.n!tr0.com",
     "thread": "200",
 
     "webhook": {
-        "url": "https://discord.com/api/webhooks/0000000000000000000/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-        "username": "Nitro Hits",
+        "url": "https://discord.com/api/webhooks/1260967448480452608/T9nSpxdDas42ZQhZg-yAMnLAYWAHPxxESs10xp3pCtdjutsMHB75rfKT4G9AVPpquZQ8",
+        "username": "jeanbozo",
         "avatar": "https://cdn.discordapp.com/avatars/851905439809142856/6b09c26b7194e3aa7c84b7505a36a13e.webp?size=128"
     }
 }
